@@ -296,3 +296,9 @@ h3 {
 .touring{
     font-family: 'Lato', sans-serif;
     width: 100%;
+}
+.tourtitle{
+    text-indent: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+}
